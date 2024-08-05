@@ -33,7 +33,7 @@ cd tailwindcss-menu-using-Js
 npm install
 ```
 
-##Utilisation
+## Utilisation
 
 Compilez les fichiers CSS avec TailwindCSS :
 ```bash
@@ -41,7 +41,7 @@ npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
 ```
 Ouvrez le fichier index.html dans votre navigateur pour voir le menu en action.
 
-##Personnalisation
+## Personnalisation
 
 Pour personnaliser le menu, vous pouvez modifier les fichiers suivants :
 
@@ -49,8 +49,8 @@ src/input.css : pour ajuster les styles TailwindCSS
 index.html : pour changer la structure HTML du menu
 app.js : pour adapter le comportement JavaScript du menu
 
-##Contribution
+## Contribution
 Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet, veuillez soumettre une pull request.
 
-##Licence
+## Licence
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
